@@ -1,4 +1,4 @@
-# first-labs
+# labs-and-exercises
 First repository, lab solutions from PCPP1 study
 
 Some of these were made between 3 and 10 months before I created my GitHub account, others were made afterwards.
